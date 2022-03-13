@@ -1,6 +1,6 @@
 package br.com.tiago.banco.model;
 
-public class Cliente {
+public class Banco {
 
 	private String nome;
 
@@ -11,4 +11,6 @@ public class Cliente {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
+	
+	
 }
