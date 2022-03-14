@@ -9,4 +9,6 @@ public interface IContaRepository {
 	void depositar(double valor);
 	
 	void transferir(double valor, Conta conta);
+	
+	void imprimirConta();
 }
